@@ -44,5 +44,7 @@
 
  全部执行成功后，会生成如下文件，其中public_key.der和private_key.p12就是iOS需要用到的文件，如下图：
 
+![生成的文件](https://github.com/caohuoxia/RSADemo/screenshot.png)
+
 
 
