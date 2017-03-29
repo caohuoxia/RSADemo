@@ -44,7 +44,7 @@ openssl pkcs8 -topk8 -in private_key.pem -out pkcs8_private_key.pem -nocrypt
 
 全部执行成功后，会生成如下文件，其中public_key.der和private_key.p12就是iOS需要用到的文件，如下图：
 
-![files](https://github.com/caohuoxia/RSADemo/screenshot.png)
+![生成文件](https://github.com/caohuoxia/RSADemo/screenshot.png)
 
 
 
