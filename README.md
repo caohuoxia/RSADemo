@@ -49,7 +49,7 @@ openssl pkcs8 -topk8 -in private_key.pem -out pkcs8_private_key.pem -nocrypt
 
 xcode8中存在一个问题，用钥匙串是不行的，会出现空白，根据如下截图解决就行。
 
-![](https://github.com/caohuoxia/RSADemo/raw/master/enable_keychainsharing.mp4)
+![](https://github.com/caohuoxia/RSADemo/raw/master/打开keychainsharing.gif)
 
 
 
