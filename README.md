@@ -11,7 +11,7 @@
 
 1. 生成模长为1024bit的私钥文件private_key.pem
 
-openssl genrsa -out private_key.pem 1024
+>openssl genrsa -out private_key.pem 1024
 
 2. 生成证书请求文件rsaCertReq.csr
 
